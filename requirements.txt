@@ -1,0 +1,9 @@
+fire
+flask
+tqdm
+flask_sqlalchemy
+requests
+numpy
+opencv-python
+paddleocr
+pillow
